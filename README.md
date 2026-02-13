@@ -27,23 +27,6 @@ This project allows users to practice debugging code problems based on different
 
 ---
 
-## 📂 Project Structure
-
-code-debug--main/
-│
-├── public/ # Static assets
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── data/ # Debugging questions
-│ ├── hooks/ # Custom React hooks
-│ ├── lib/ # Utility/helper functions
-│ ├── pages/ # Application pages
-│ ├── test/ # Unit tests
-│ ├── App.tsx
-│ └── main.tsx
-│
-├── index.html
-├── package.json
 ├── tailwind.config.ts
 ├── vite.config.ts
 └── README.md
