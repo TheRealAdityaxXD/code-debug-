@@ -27,6 +27,3 @@ This project allows users to practice debugging code problems based on different
 
 ---
 
-├── tailwind.config.ts
-├── vite.config.ts
-└── README.md
